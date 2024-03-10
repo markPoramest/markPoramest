@@ -8,6 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [มาหา Deadcode ใน Golang ด้วยกันเถอะ](https://developers.ascendcorp.com/%E0%B8%A1%E0%B8%B2%E0%B8%AB%E0%B8%B2-deadcode-%E0%B9%83%E0%B8%99-golang-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-b93657546ace?source=rss-a368d2d69b7f------2)
+- [เขียน Test Golang โดยใช้ Gomock กับ Ginkgo](https://developers.ascendcorp.com/%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-test-golang-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-gomock-%E0%B8%81%E0%B8%B1%E0%B8%9A-ginkgo-d0d9b25beca?source=rss-a368d2d69b7f------2)
+- [ลองเขียน Unit Test Golang ด้วยแปะก๊วยกันดู](https://developers.ascendcorp.com/%E0%B8%A5%E0%B8%AD%E0%B8%87-unit-test-golang-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B9%81%E0%B8%9B%E0%B8%B0%E0%B8%81%E0%B9%8A%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B9-4fab90f80b3c?source=rss-a368d2d69b7f------2)
+- [วิเคราะห์ Golang ด้วย Go profiling](https://developers.ascendcorp.com/%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C-golang-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-go-profiling-f97a1fba15ab?source=rss-a368d2d69b7f------2)
+- [มาลองใช้ Go Generics ใน Golang กันเถอะ](https://developers.ascendcorp.com/%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89-go-generics-%E0%B9%83%E0%B8%99-golang-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-b931f2f426aa?source=rss-a368d2d69b7f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
