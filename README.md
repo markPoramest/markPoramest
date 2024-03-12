@@ -2,7 +2,7 @@
 
 ### I am senior software engineer
 
-⤷ I am currently exploring opportunities for a software engineer position in Japan. I possess a JLPT N3 certification for Japanese language proficiency and a CEFR B2 certification for English language proficiency. With over three years of experience, my expertise lies in the development of backend.
+⤷ I am currently exploring opportunities for a software engineer position in Japan. I possess a JLPT N3 certification for Japanese language proficiency and a CEFR C1 certification for English language proficiency. With over three years of experience, my expertise lies in the development of backend.
 
 ⚐ Based in Bangkok, Thailand
 
