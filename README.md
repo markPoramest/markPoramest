@@ -20,7 +20,7 @@
 
 ### 💫 About Me
 
-- 💻 **Senior Software Engineer** with over 4 years of experience architecting high-performance backend systems, microservices, and robust APIs.
+- 💻 **Senior Software Engineer** with over 5 years of experience architecting high-performance backend systems, microservices, and robust APIs.
 - 🛠️ **Primary Stack**: **Go (Golang)**, **Java**, **TypeScript**, **PostgreSQL**, **Redis**, and modern web ecosystems (**Next.js**, **React**, **Astro**).
 - 🇯🇵 **Language Certifications**: Certified **JLPT N2** (Japanese) and **CEFR C1** (English).
 - 🗾 **Career Goal**: Actively exploring software engineering opportunities in **Japan**.
@@ -163,14 +163,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 GitHub Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=markPoramest&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
 
 ---
 
