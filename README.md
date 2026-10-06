@@ -35,18 +35,21 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🗾 Japan Trip Planner</h3>
+      <p align="center"><i>by Mark no Nihon Tabi</i></p>
       <p align="center">
         <a href="https://japantripplanner.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-japantripplanner.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </p>
       <p>
-        An interactive, all-in-one travel planner designed specifically for exploring Japan. Features smart IC card balance tracking, daily schedule & transit itinerary planning, and cost calculation.
+        An all-in-one travel planner and group expense workspace designed for traveling across Japan.
       </p>
       <ul>
-        <li>Smart IC card transit tracking & expenditure calculation</li>
-        <li>Day-by-day interactive itinerary & route planning</li>
-        <li>Clean, mobile-optimized UI with dark mode support</li>
+        <li><b>👥 Group Split Bill:</b> Split hotel, flight, and transit pass costs equally or with custom shares per friend.</li>
+        <li><b>📅 Daily Itineraries & Timelines:</b> Schedule stops with times (HH:MM), costs, rail pass tags (JR Pass), and location autocomplete.</li>
+        <li><b>💳 IC Card & Cash Tracking:</b> Separate tracking for IC card expenses (local trains, buses & konbini) vs cash/credit cards with dual-currency support.</li>
+        <li><b>📊 Excel Matrix View:</b> Comprehensive matrix overview for full budget and schedule breakdown.</li>
+        <li><b>🔒 Cloud Workspace:</b> Multi-trip management with Google authentication and multi-language support.</li>
       </ul>
       <p>
         <b>Tech:</b>
@@ -54,35 +57,42 @@
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/NextAuth-5A32A3?style=flat-square&logo=next.js&logoColor=white" alt="NextAuth" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p align="center">
-        <a href="https://japantripplanner.vercel.app/"><b>👉 Open Trip Planner</b></a>
+        <a href="https://japantripplanner.vercel.app/"><b>👉 Open Japan Trip Planner</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🗺️ Map Animation Generator</h3>
+      <p align="center"><i>by Mark no Nihon Tabi</i></p>
       <p align="center">
         <a href="https://map-animation-generator.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-map--animation--generator.vercel.app-EA580C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </p>
       <p>
-        Create smooth, animated 3D map route travel videos between departure and destination points. Ideal for travel vloggers, route visualizers, and commuters.
+        Create animated 3D map route travel videos from departure to destination for travel vlogs and route showcases.
       </p>
       <ul>
-        <li>1-Click Route presets (e.g. Tokaido Shinkansen, Chuo Line)</li>
-        <li>Customizable vehicles: Shinkansen, Train, Flight, Car, Bus, Bike</li>
-        <li>Travel duration badges, timeline scrubbers, and video export</li>
+        <li><b>🛣️ Automated Route Generator:</b> Path calculation between departure and destination with quick station presets.</li>
+        <li><b>🚅 8 Vehicle Modes + Custom Upload:</b> Shinkansen, Train, Flight, Car, Bus, Bicycle, Walk, Ferry, plus <i>custom vehicle image upload (PNG/JPG/SVG/WebP)</i>.</li>
+        <li><b>⏱️ Travel Time & Badges:</b> Accurate hour/minute inputs with quick travel time badges.</li>
+        <li><b>🎬 Timeline & Video Player:</b> Play/pause, reset, and smooth timeline scrubber (0.0s to duration).</li>
+        <li><b>📹 Video Export:</b> Export high-definition 16:9 YouTube videos with customizable durations (8s, 10s, 12s, 16s).</li>
       </ul>
       <p>
         <b>Tech:</b>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/3D%20GIS%20Maps-EB5E28?style=flat-square&logo=googlemaps&logoColor=white" alt="Maps" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p align="center">
-        <a href="https://map-animation-generator.vercel.app/"><b>👉 Generate Route Animation</b></a>
+        <a href="https://map-animation-generator.vercel.app/"><b>👉 Generate Map Route Video</b></a>
       </p>
     </td>
   </tr>
