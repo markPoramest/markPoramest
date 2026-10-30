@@ -68,8 +68,8 @@
       <h3 align="center">🗺️ Map Animation Generator</h3>
       <p align="center"><i>by Mark no Nihon Tabi</i></p>
       <p align="center">
-        <a href="https://map-animation-generator.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-map--animation--generator.vercel.app-EA580C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        <a href="https://mapgen.marknonihontabi.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Site-mapgen.marknonihontabi.com-EA580C?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </p>
       <p>
@@ -92,7 +92,7 @@
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p align="center">
-        <a href="https://map-animation-generator.vercel.app/"><b>👉 Generate Map Route Video</b></a>
+        <a href="https://mapgen.marknonihontabi.com/"><b>👉 Generate Map Route Video</b></a>
       </p>
     </td>
   </tr>
