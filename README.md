@@ -37,8 +37,8 @@
       <h3 align="center">🗾 Japan Trip Planner</h3>
       <p align="center"><i>by Mark no Nihon Tabi</i></p>
       <p align="center">
-        <a href="https://japantripplanner.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-japantripplanner.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        <a href="https://plan.marknonihontabi.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Site-plan.marknonihontabi.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </p>
       <p>
@@ -61,7 +61,7 @@
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p align="center">
-        <a href="https://japantripplanner.vercel.app/"><b>👉 Open Japan Trip Planner</b></a>
+        <a href="https://plan.marknonihontabi.com/"><b>👉 Open Japan Trip Planner</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
